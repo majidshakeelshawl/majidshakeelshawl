@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Majid Shakeel
-- 🌱 Taking Code along Projects andWorking on My Own Projects also.
+- 🌱 Taking Code along Projects and Working on My Own Projects also.
 - 📫 majidshakeelshawl@gmail.com
 
 <!---
