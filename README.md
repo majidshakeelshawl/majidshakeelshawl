@@ -9,9 +9,7 @@ On this profile, you can find my personal projects and contributions to open sou
 - Flutter
 - Git and GitHub
 - Docker
-- Google IT Professional Engineer certification (Coursera)
 - CI/CD
-- AWS (Learning)
 
 ## Projects 📂
 - [Portfolio App](https://github.com/majidshakeelshawl/portfolio-app) - A web app built using the React library. 🚧
