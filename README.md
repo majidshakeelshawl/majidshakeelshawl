@@ -14,8 +14,8 @@ On this profile, you can find my personal projects and contributions to open sou
 - AWS (Learning)
 
 ## Projects 📂
-- [Portfolio App](https://github.com/majidshakeelshawl/portfolio-app) - A web app built using the React library.
-- [Decide On](https://github.com/majidshakeelshawl/decide_on) - A mobile app built using Flutter.
+- [Portfolio App](https://github.com/majidshakeelshawl/portfolio-app) - A web app built using the React library. 🚧
+- [Decide On](https://github.com/majidshakeelshawl/decide_on) - A mobile app built using Flutter and Firebase. 🚧
 
 ## Contributions 🤝
 - [Open Source Project 1](https://github.com/zero-to-mastery/HTML-project/pull/505) - Added responsive design for container in HTML project.
