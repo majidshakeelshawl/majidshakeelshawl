@@ -1,4 +1,4 @@
-# 🚀 Hello! My name is Majid
+# 🚀 Majid Shakeel - Full Stack Development and Beyond
 
 I am a **MERN Stack** and **Flutter** developer with skills in **Git**, **GitHub**, **Docker**, and I have certifications in **[Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/3SQNV9GXA82K)** and **[AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/certificate/N8CF5MT8WEPY)**.
 
