@@ -6,7 +6,6 @@ On this profile, you can find my personal projects and contributions to open sou
 
 ## Skills 💻
 - MERN Stack
-- Flutter
 - Git and GitHub
 - Docker
 - CI/CD
