@@ -23,3 +23,5 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/majidshakeelshawl
 majidshakeelshawl/majidshakeelshawl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![An image of @majidshakeelshawl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majidshakeelshawl)](https://holopin.io/@majidshakeelshawl)
