@@ -16,7 +16,7 @@ Building high-performance, scalable backend architectures with a strong focus on
 
 ## 🛠️ **Tech Stack & Expertise**  
 
-- **Backend Development**: Node.js (Express, Nest.js), Python (Django, FastAPI), Java (Spring Boot)  
+- **Backend Development**: Node.js (Express, Nest.js), Python (Django)  
 - **Cloud & DevOps**: AWS (EC2, S3, Lambda, API Gateway, RDS, DynamoDB), Docker  
 - **Database Systems**: PostgreSQL, MySQL, MongoDB, Redis  
 - **System Design & Architecture**: Scalable API Design, RESTful Services  
@@ -55,7 +55,7 @@ Building high-performance, scalable backend architectures with a strong focus on
 
 ---
 
-## 🏆 **Digital Achievements & Certifications**  
+## 🏅 **Digital Achievements & Certifications**  
 
 - **AWS Cloud Practitioner Essentials** – [Certificate](https://www.coursera.org/account/accomplishments/certificate/N8CF5MT8WEPY)  
 - **Google IT Support** – [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/3SQNV9GXA82K)  
