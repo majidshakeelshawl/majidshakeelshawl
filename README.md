@@ -48,6 +48,13 @@ Building high-performance, scalable backend architectures with a strong focus on
 
 ---
 
+## 🏆 Leadership & Problem-Solving  
+- **Mentored junior developers** on API best practices and security fundamentals.  
+- **Optimized database queries**, reducing API response times by 40% using proper indexing and caching.  
+- **Debugged and resolved production incidents**, ensuring system uptime with proper monitoring.  
+
+---
+
 ## 🏆 **Digital Achievements & Certifications**  
 
 - **AWS Cloud Practitioner Essentials** – [Certificate](https://www.coursera.org/account/accomplishments/certificate/N8CF5MT8WEPY)  
@@ -58,6 +65,6 @@ Building high-performance, scalable backend architectures with a strong focus on
 
 ## 📫 **Let's Connect**  
 
-🌍 **Website**: [majidshakeelshawl.vercel.app](https://majidshakeelshawl.vercel.app/)  
-🔗 **LinkedIn**: [linkedin.com/in/majidshakeelshawl](https://www.linkedin.com/in/majidshakeelshawl/)  
-💡 **Stack Overflow**: [stackoverflow.com/users/13512076/majidshakeelshawl](https://stackoverflow.com/users/13512076/majidshakeelshawl)
+- 🌍 **Website**: [majidshakeelshawl.vercel.app](https://majidshakeelshawl.vercel.app/)  
+- 🔗 **LinkedIn**: [linkedin.com/in/majidshakeelshawl](https://www.linkedin.com/in/majidshakeelshawl/)  
+- 💡 **Stack Overflow**: [stackoverflow.com/users/13512076/majidshakeelshawl](https://stackoverflow.com/users/13512076/majidshakeelshawl)
