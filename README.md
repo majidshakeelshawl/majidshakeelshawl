@@ -20,7 +20,7 @@ A **backend implementation of PhonePe’s payment gateway** using **Node.js & Ex
 - Ensured **secure API communication** with proper encryption and error handling.
   
 ### 📌 [Blog app](https://github.com/majidshakeelshawl/blogapp)
-A full-stack blogging platform built with **Next.js (frontend)** and **Node.js (backend)**, focusing on optimized API performance  
+A full-stack blogging platform built with **Next.js (frontend)** and **Node.js (backend)**
 
 ## 🤝 Open Source Contributions  
 - 📌 [Enhanced responsive design for an HTML project](https://github.com/zero-to-mastery/HTML-project/pull/505) — Improved UI/UX for better accessibility and mobile optimization  
