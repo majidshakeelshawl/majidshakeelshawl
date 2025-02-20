@@ -1,39 +1,63 @@
-# 🚀 Majid Shakeel — Backend Developer | AWS & Cloud Enthusiast  
+# 🚀 Majid Shakeel Shawl | Backend Engineer | Scalable Systems | Cloud & DevOps  
 
-Welcome to my GitHub profile! I am a **Backend Developer** with expertise in designing and scaling efficient, high-performance server-side applications. My focus is on **backend technologies**, **cloud computing**, and **DevOps best practices**, ensuring robust and scalable architectures.  
+Building high-performance, scalable backend architectures with a strong focus on cloud-native solutions, API design, and distributed systems. Passionate about backend technologies, automation, and infrastructure scalability.  
+
+---
 
 ## 🔹 About Me  
-- 🛠️ **Backend Specialist** with hands-on experience in **Node.js, Express.js, and database management**  
-- ☁️ Strong understanding of **AWS services, cloud architecture, and infrastructure automation**  
-- ⚡ Proficient in **Docker, CI/CD, and scalable API design**  
-- 💡 Comfortable with **React.js & Next.js**, primarily for full-stack applications, but my core strength lies in backend development  
-- 🏆 **Certified in**:  
-  - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/3SQNV9GXA82K)  
-  - [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/certificate/N8CF5MT8WEPY)  
-- 🔍 Passionate about **building efficient, maintainable, and secure backend systems**  
 
-## 📂 Notable Projects  
-### 📌 [PhonePe Integration](https://github.com/majidshakeelshawl/phonepe_integration)  
-A **backend implementation of PhonePe’s payment gateway** using **Node.js & Express.js** to facilitate secure digital transactions.  
-- Implemented **callback verification using PhonePe’s `X-VERIFY` signature mechanism** to ensure transaction authenticity.
-- Designed and implemented a **custom webhook handling mechanism** for transaction status updates.
-- Ensured **secure API communication** with proper encryption and error handling.
-  
-### 📌 [Blog app](https://github.com/majidshakeelshawl/blogapp)
-A full-stack blogging platform built with **Next.js (frontend)** and **Node.js (backend)**
+💡 **Backend Engineer with 3+ years of experience** designing and optimizing robust, scalable, and secure backend applications.\
+⚙️ **Specializing in API architecture and cloud-native solutions** to power enterprise-grade applications.\
+☁️ **AWS & DevOps-focused**, ensuring performance, resilience, and cost-effective infrastructure.\
+🔗 **Expert in API integrations**, secure payment processing, and webhook implementations.\
+📈 **Proven track record of handling high-traffic backend services** with a strong focus on performance optimization.  
 
-## 🤝 Open Source Contributions  
-- 📌 [Enhanced responsive design for an HTML project](https://github.com/zero-to-mastery/HTML-project/pull/505) — Improved UI/UX for better accessibility and mobile optimization  
+---
 
-## 📈 Why Work with Me?  
-With a **backend-first mindset**, I specialize in designing **robust, scalable, and cloud-ready** architectures. Whether it’s **optimizing APIs, handling distributed systems, or integrating cloud solutions**, I bring a results-driven approach to every project.
+## 🛠️ **Tech Stack & Expertise**  
 
-## 🏆 Digital Achievements & Badges 
-[![An image of @majidshakeelshawl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majidshakeelshawl)](https://holopin.io/@majidshakeelshawl)  
+- **Backend Development**: Node.js (Express, Nest.js), Python (Django, FastAPI), Java (Spring Boot)  
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, API Gateway, RDS, DynamoDB), Docker  
+- **Database Systems**: PostgreSQL, MySQL, MongoDB, Redis  
+- **System Design & Architecture**: Scalable API Design, RESTful Services  
+- **Security & Compliance**: JWT, Webhooks, X-Verify authentication  
+- **CI/CD & Automation**: GitHub Actions  
+- **Frontend Development**: Proficient in React, Next.js  
 
-## 📫 Let’s Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/majidshakeelshawl/)  
-- 🎯 [Stack Overflow](https://stackoverflow.com/users/13512076/majidshakeelshawl)
-- 🌐 [Website](https://majidshakeelshawl.vercel.app/)
-  
-Let's build **scalable, cloud-native** solutions together! 🚀  
+---
+
+## 🔥 **Notable Work & Contributions**  
+
+### 📌 **PhonePe Webhook Integration**  
+
+[PhonePe Integration](https://github.com/majidshakeelshawl/phonepe_integration) – Implemented **X-Verify authentication**, **secure webhook handling**, and **payment callback verification** for a robust digital payments system.  
+
+### 📌 **Enterprise-Grade API Development**  
+
+- Architected and optimized **highly available APIs** handling thousands of concurrent requests.  
+- Implemented **role-based access control (RBAC)** and **secure authentication flows**.  
+- Designed **asynchronous job processing pipelines** using **Redis queues**.  
+- **Integrated AWS S3** for efficient file storage and retrieval, enhancing system scalability.  
+- Developed **JavaScript-based scheduled jobs in Node.js** for automated background tasks and workflow execution.  
+
+### 📌 **Cloud-Native & Scalable Infrastructure**  
+
+- Built **AWS-based infrastructure** with autoscaling, cost-efficient deployments, and **serverless solutions**.  
+- Integrated **CI/CD pipelines** for automated deployments and zero-downtime releases.  
+- Implemented **observability tools** (CloudWatch) for system monitoring and debugging.  
+
+---
+
+## 🏆 **Digital Achievements & Certifications**  
+
+- **AWS Cloud Practitioner Essentials** – [Certificate](https://www.coursera.org/account/accomplishments/certificate/N8CF5MT8WEPY)  
+- **Google IT Support** – [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/3SQNV9GXA82K)  
+- **Holopin Digital Assets** [![An image of @majidshakeelshawl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/majidshakeelshawl)](https://holopin.io/@majidshakeelshawl)  
+
+---
+
+## 📫 **Let's Connect**  
+
+🌍 **Website**: [majidshakeelshawl.vercel.app](https://majidshakeelshawl.vercel.app/)  
+🔗 **LinkedIn**: [linkedin.com/in/majidshakeelshawl](https://www.linkedin.com/in/majidshakeelshawl/)  
+💡 **Stack Overflow**: [stackoverflow.com/users/13512076/majidshakeelshawl](https://stackoverflow.com/users/13512076/majidshakeelshawl)
