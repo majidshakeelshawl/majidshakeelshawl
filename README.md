@@ -28,7 +28,7 @@ Building high-performance, scalable backend architectures with a strong focus on
 
 ## 🔥 **Notable Work & Contributions**  
 
-### 📌 **Enterprise-Grade PhonePe Payment Integration**  
+### 📌 **Enterprise-Grade PhonePe Payment Gateway Integration**  
 
 [PhonePe Integration](https://github.com/majidshakeelshawl/phonepe_integration) – Implemented **X-Verify authentication**, **secure webhook handling**, and **payment callback verification** for a robust digital payments system.  
 
