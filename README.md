@@ -49,9 +49,10 @@ Building high-performance, scalable backend architectures with a strong focus on
 ---
 
 ## 🏆 Leadership & Problem-Solving  
-- **Mentored junior developers** on API best practices and security fundamentals.  
-- **Optimized database queries**, reducing API response times by 40% using proper indexing and caching.  
-- **Debugged and resolved production incidents**, ensuring system uptime with proper monitoring.  
+- Mentored junior developers on API best practices and security fundamentals.  
+- Optimized database queries, reducing API response times by 40% using proper indexing and caching.  
+- Improved database maintainability and security by utilizing **SQL Views**, simplifying complex queries and restricting direct access to underlying tables.  
+- Debugged and resolved production incidents, ensuring system uptime with proper monitoring.  
 
 ---
 
