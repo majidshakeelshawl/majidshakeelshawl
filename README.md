@@ -22,7 +22,7 @@ Building high-performance, scalable backend architectures with a strong focus on
 - **System Design & Architecture**: Scalable API Design, RESTful Services  
 - **Security & Compliance**: JWT, Webhooks, X-Verify authentication  
 - **CI/CD & Automation**: GitHub Actions  
-- **Frontend Development**: Proficient in React, Next.js, Redux toolkit, Tanstack
+- **Frontend Development**: Proficient in React, Next.js, Redux toolkit, TanStack
 
 ---
 
