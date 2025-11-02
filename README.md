@@ -1,12 +1,12 @@
-# 🚀 Majid Shakeel Shawl | Backend Engineer | Scalable Systems | Cloud & DevOps  
+# 🚀 Majid Shakeel Shawl | Software Engineer | Scalable Systems | Cloud & DevOps
 
-Building high-performance, scalable backend architectures with a strong focus on cloud-native solutions, API design, and distributed systems. Passionate about backend technologies, automation, and infrastructure scalability.  
+Building high-performance, scalable backend architectures with a strong focus on cloud-native solutions, API design, and distributed systems. Passionate about backend technologies, automation, and infrastructure scalability. 
 
 ---
 
 ## 🔹 About Me  
 
-💡 **Backend Engineer with 3+ years of experience** designing and optimizing robust, scalable, and secure backend applications.\
+💡 **Software Engineer with 3+ years of experience** designing and optimizing robust, scalable, and secure backend applications.\
 ⚙️ **Specializing in API architecture and cloud-native solutions** to power enterprise-grade applications.\
 ☁️ **AWS & DevOps-focused**, ensuring performance, resilience, and cost-effective infrastructure.\
 🔗 **Expert in API integrations**, secure payment processing, and webhook implementations.\
@@ -22,7 +22,7 @@ Building high-performance, scalable backend architectures with a strong focus on
 - **System Design & Architecture**: Scalable API Design, RESTful Services  
 - **Security & Compliance**: JWT, Webhooks, X-Verify authentication  
 - **CI/CD & Automation**: GitHub Actions  
-- **Frontend Development**: Proficient in React, Next.js  
+- **Frontend Development**: Proficient in React, Next.js, Redux toolkit, Tanstack
 
 ---
 
